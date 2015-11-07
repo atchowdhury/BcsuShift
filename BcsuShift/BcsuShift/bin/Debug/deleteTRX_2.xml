@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+ <!DOCTYPE raml SYSTEM 'raml20.dtd'>
+ <raml version="2.0" xmlns="raml20.xsd">
+<cmData type="plan">
+<header>
+<log dateTime="" action="created" user="blOMC" appInfo="blNokiaTool"/>
+</header><managedObject class="LAPD" version="S15" distName="PLMN-PLMN/BSC-865555/LAPD-1171" operation="delete"> </managedObject>
+<managedObject class="TRX" version="S15" distName="PLMN-PLMN/BSC-865555/BCF-84/BTS-999/TRX-9" operation="delete"> </managedObject>
+<managedObject class="LAPD" version="S15" distName="PLMN-PLMN/BSC-865555/LAPD-1361" operation="delete"> </managedObject>
+<managedObject class="TRX" version="S15" distName="PLMN-PLMN/BSC-865555/BCF-84/BTS-999/TRX-4" operation="delete"> </managedObject>
+<managedObject class="LAPD" version="S15" distName="PLMN-PLMN/BSC-865555/LAPD-134" operation="delete"> </managedObject>
+<managedObject class="TRX" version="S15" distName="PLMN-PLMN/BSC-865555/BCF-94/BTS-1117/TRX-1" operation="delete"> </managedObject>
+<managedObject class="LAPD" version="S15" distName="PLMN-PLMN/BSC-865555/LAPD-326" operation="delete"> </managedObject>
+<managedObject class="TRX" version="S15" distName="PLMN-PLMN/BSC-865555/BCF-1/BTS-1/TRX-1" operation="delete"> </managedObject>
+<managedObject class="LAPD" version="S15" distName="PLMN-PLMN/BSC-865555/LAPD-249" operation="delete"> </managedObject>
+<managedObject class="TRX" version="S15" distName="PLMN-PLMN/BSC-865555/BCF-1/BTS-1/TRX-17" operation="delete"> </managedObject>
+<managedObject class="LAPD" version="S15" distName="PLMN-PLMN/BSC-865555/LAPD-322" operation="delete"> </managedObject>
+<managedObject class="TRX" version="S15" distName="PLMN-PLMN/BSC-865555/BCF-26/BTS-302/TRX-3" operation="delete"> </managedObject>
+<managedObject class="LAPD" version="S15" distName="PLMN-PLMN/BSC-865555/LAPD-323" operation="delete"> </managedObject>
+<managedObject class="TRX" version="S15" distName="PLMN-PLMN/BSC-865555/BCF-26/BTS-302/TRX-4" operation="delete"> </managedObject>
+<managedObject class="LAPD" version="S15" distName="PLMN-PLMN/BSC-865555/LAPD-422" operation="delete"> </managedObject>
+<managedObject class="TRX" version="S15" distName="PLMN-PLMN/BSC-865555/BCF-26/BTS-302/TRX-5" operation="delete"> </managedObject>
+<managedObject class="LAPD" version="S15" distName="PLMN-PLMN/BSC-865555/LAPD-922" operation="delete"> </managedObject>
+<managedObject class="TRX" version="S15" distName="PLMN-PLMN/BSC-865555/BCF-84/BTS-999/TRX-10" operation="delete"> </managedObject>
+<managedObject class="LAPD" version="S15" distName="PLMN-PLMN/BSC-865555/LAPD-97" operation="delete"> </managedObject>
+<managedObject class="TRX" version="S15" distName="PLMN-PLMN/BSC-865555/BCF-94/BTS-1117/TRX-13" operation="delete"> </managedObject>
+</cmData>
+</raml>

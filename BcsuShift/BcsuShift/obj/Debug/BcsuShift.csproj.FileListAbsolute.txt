@@ -1,0 +1,14 @@
+F:\BASIS Class\Practice Web ASP\BcsuShift\BcsuShift\bin\Debug\BcsuShift.exe.config
+F:\BASIS Class\Practice Web ASP\BcsuShift\BcsuShift\bin\Debug\BcsuShift.exe
+F:\BASIS Class\Practice Web ASP\BcsuShift\BcsuShift\bin\Debug\BcsuShift.pdb
+F:\BASIS Class\Practice Web ASP\BcsuShift\BcsuShift\bin\Debug\Shift.DAL.dll
+F:\BASIS Class\Practice Web ASP\BcsuShift\BcsuShift\bin\Debug\Shift.DAO.dll
+F:\BASIS Class\Practice Web ASP\BcsuShift\BcsuShift\bin\Debug\Shift.DAL.pdb
+F:\BASIS Class\Practice Web ASP\BcsuShift\BcsuShift\bin\Debug\Shift.DAO.pdb
+F:\BASIS Class\Practice Web ASP\BcsuShift\BcsuShift\obj\Debug\BcsuShift.csprojResolveAssemblyReference.cache
+F:\BASIS Class\Practice Web ASP\BcsuShift\BcsuShift\obj\Debug\BcsuShift.exe
+F:\BASIS Class\Practice Web ASP\BcsuShift\BcsuShift\obj\Debug\BcsuShift.pdb
+F:\BASIS Class\Practice Web ASP\BcsuShift\BcsuShift\bin\Debug\telnetlib.dll
+G:\Projects\OMCB\BcsuShift\BcsuShift\BcsuShift\bin\Debug\BcsuShift.exe.config
+G:\Projects\OMCB\BcsuShift\BcsuShift\BcsuShift\obj\Debug\BcsuShift.exe
+G:\Projects\OMCB\BcsuShift\BcsuShift\BcsuShift\obj\Debug\BcsuShift.pdb

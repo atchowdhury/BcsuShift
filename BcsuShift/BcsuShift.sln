@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BcsuShift", "BcsuShift\BcsuShift.csproj", "{3D623D6C-1B0F-48A4-B0B5-8F1C081B94B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shift.DAL", "Shift.DAL\Shift.DAL.csproj", "{935AD6DA-9706-480A-8607-4CB83BB334D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shift.DAO", "Shift.DAO\Shift.DAO.csproj", "{EE7DB219-AD14-4F68-8CDE-63A2BDDBC40C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D623D6C-1B0F-48A4-B0B5-8F1C081B94B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D623D6C-1B0F-48A4-B0B5-8F1C081B94B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D623D6C-1B0F-48A4-B0B5-8F1C081B94B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D623D6C-1B0F-48A4-B0B5-8F1C081B94B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{935AD6DA-9706-480A-8607-4CB83BB334D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935AD6DA-9706-480A-8607-4CB83BB334D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935AD6DA-9706-480A-8607-4CB83BB334D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935AD6DA-9706-480A-8607-4CB83BB334D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE7DB219-AD14-4F68-8CDE-63A2BDDBC40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7DB219-AD14-4F68-8CDE-63A2BDDBC40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7DB219-AD14-4F68-8CDE-63A2BDDBC40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7DB219-AD14-4F68-8CDE-63A2BDDBC40C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

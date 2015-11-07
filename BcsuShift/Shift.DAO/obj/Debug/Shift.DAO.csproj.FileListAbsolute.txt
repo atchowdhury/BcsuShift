@@ -1,0 +1,6 @@
+F:\BASIS Class\Practice Web ASP\BcsuShift\Shift.DAO\bin\Debug\Shift.DAO.dll
+F:\BASIS Class\Practice Web ASP\BcsuShift\Shift.DAO\bin\Debug\Shift.DAO.pdb
+F:\BASIS Class\Practice Web ASP\BcsuShift\Shift.DAO\obj\Debug\Shift.DAO.csprojResolveAssemblyReference.cache
+F:\BASIS Class\Practice Web ASP\BcsuShift\Shift.DAO\obj\Debug\Shift.DAO.dll
+F:\BASIS Class\Practice Web ASP\BcsuShift\Shift.DAO\obj\Debug\Shift.DAO.pdb
+F:\BASIS Class\Practice Web ASP\BcsuShift\Shift.DAO\bin\Debug\telnetlib.dll
